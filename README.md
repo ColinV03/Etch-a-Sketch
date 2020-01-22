@@ -1,0 +1,1 @@
+This project is found on The Odin Project's Curriculum. The objective of this is to make an Etch a' Sketch application with full functionality of drawing, clearing, and defining grid size. This project will be a culmination of all of the previous projects made to date. The used languages will be JavaScript, CSS, and HTML. 
